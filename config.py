@@ -1,15 +1,15 @@
 
 
 
-ALPACA_API_KEY = "" 
-ALPACA_SECRET_KEY = ""  
+ALPACA_API_KEY = "PKERRV3YTCV45EKWH4OA773Z37" 
+ALPACA_SECRET_KEY = "F4g6QV6ciEKk5Jydpnt8tEQCHxZfW9A4tt1YTA2AsLm7"  
 USE_PAPER_TRADING = True  
 
 WATCHLIST = [
     "TQQQ",    
     "SOXL",    
     "UPRO",    
-    "BTC-USD"  
+    "BTCUSD"  
 ]
 
 SMA_FAST = 20        
